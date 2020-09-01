@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "firstname" : "John",
+        "middlenames" : ["Adamu", "Chukwuka", "Adekunle"],
+        "lastname" : "Ciroma",
+        "place-of-birth" : "okene"
+    }
+]
